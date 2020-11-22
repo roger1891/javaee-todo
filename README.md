@@ -5,7 +5,7 @@
 4. Maven
 
 #commands
-1. build uberjar - java -jar pm.jar --deploy <local directory>\hello-todo.war --port 8080 --outputUberJar helloTodo.jar
+1. build uberjar - java -jar pm.jar --deploy (local directory path)\hello-todo.war --port 8080 --outputUberJar helloTodo.jar
 2. Execute jar - java -jar helloTodo.jar
 
 # Build

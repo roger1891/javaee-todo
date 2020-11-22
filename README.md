@@ -4,7 +4,7 @@
 3. Insomia Rest Client
 4. Maven
 
-#commands
+# Commands
 1. build uberjar - java -jar pm.jar --deploy (local directory path)\hello-todo.war --port 8080 --outputUberJar helloTodo.jar
 2. Execute jar - java -jar helloTodo.jar
 
